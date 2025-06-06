@@ -13,4 +13,8 @@ Assigns GPIO 28 (pin 34) as a UART to also print nice messages as well as displa
 <img width="468" alt="{8BF52CF4-7CEC-4F10-8FEB-6D420F0D2A90}" src="https://github.com/user-attachments/assets/982f821d-9967-4800-a7b3-5ee8c9a57489" />
 
 
+The sections are broken up just like the table, the final portion of a message could mean "If I am stuck here, then this is a potential cause" not neccesarily a definitive statement. You should make your judgement based on the last post code encountered.
+
+Ie, post code 0x79 is pretty much fully booted to dash
+
 Thanks to the nice person who made the reddit post and the great people at Xenon Library.
